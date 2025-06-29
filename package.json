@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s06j1gs",
-  "description": "https://scrimba.com/learn-react-c0e/~05s2",
+  "name": "travel-journal",
+  "description": "A simple travel journal application built with React and Vite",
   "scripts": {
     "start": "vite",
     "dev": "vite",
